@@ -1,6 +1,7 @@
 # Movie-App-with APi
-![Screenshot (2)](https://user-images.githubusercontent.com/112042894/194515749-97652c5e-bd2d-4547-9c67-dab996fdd257.png)
-![Screenshot (1)](https://user-images.githubusercontent.com/112042894/194515746-37b86038-99ed-4611-b927-744b1a6cac94.png)
-![Screenshot (3)](https://user-images.githubusercontent.com/112042894/194515753-4737b283-aa44-42c9-96bb-abb15c076e06.png)
-![Screenshot (4)](https://user-images.githubusercontent.com/112042894/194515758-262bea2f-0a1a-42b7-93da-426c4641a769.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/112042894/194789356-e7761ed7-fc97-438d-8e39-7d6c7641c7b0.png)
+![Screenshot (5)](https://user-images.githubusercontent.com/112042894/194789368-5c7939a7-65f3-43c6-80b8-073472f9a515.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/112042894/194789371-ada10ff8-1dde-4d1a-8f96-4568fa70e099.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/112042894/194789385-fdd9a7cc-b758-45c5-a809-715f72ee45b4.png)
+
 API: https://www.themoviedb.org/
